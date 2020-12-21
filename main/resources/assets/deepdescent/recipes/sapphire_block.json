@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    
+    "key":
+    {
+        "X":
+        {
+            "item": "deepdescent:sapphire_gem"
+        }
+    },
+    
+    "result":
+    {
+        "item": "deepdescent:sapphire_block",
+        "count": 1
+    }
+}

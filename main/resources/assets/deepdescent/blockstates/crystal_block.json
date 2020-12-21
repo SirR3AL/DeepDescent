@@ -1,0 +1,23 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+        "model": "cube_all"
+    },
+  "variants": {
+    "type": {
+      "white": {"textures": {"all": "deepdescent:blocks/crystal_white"}},
+      "red": {"textures": {"all": "deepdescent:blocks/crystal_red"}},
+      "blue": {"textures": {"all": "deepdescent:blocks/crystal_blue"}},
+      "cyan": {"textures": {"all": "deepdescent:blocks/crystal_cyan"}},
+      "light_blue": {"textures": {"all": "deepdescent:blocks/crystal_cyan"}},
+      "lime": {"textures": {"all": "deepdescent:blocks/crystal_lime"}},
+      "green": {"textures": {"all": "deepdescent:blocks/crystal_green"}},
+      "purple": {"textures": {"all": "deepdescent:blocks/crystal_purple"}},
+      "magenta": {"textures": {"all": "deepdescent:blocks/crystal_magenta"}},
+      "pink": {"textures": {"all": "deepdescent:blocks/crystal_pink"}},
+      "yellow": {"textures": {"all": "deepdescent:blocks/crystal_yellow"}},
+      "orange": {"textures": {"all": "deepdescent:blocks/crystal_orange"}}
+    },
+  "inventory": [{}]
+  }
+}

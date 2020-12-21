@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    
+    "key":
+    {
+        "X":
+        {
+            "item": "deepdescent:silver_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "deepdescent:silver_block",
+        "count": 1
+    }
+}

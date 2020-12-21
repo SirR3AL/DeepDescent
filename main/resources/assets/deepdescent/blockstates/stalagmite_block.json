@@ -1,0 +1,28 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "all": "deepdescent:blocks/acanthite_ore_block"
+        }
+    },
+    "variants": {
+        "size=0": {
+            "model": "deepdescent:stalagtite_block_a"
+        },
+        "size=1": {
+            "model": "deepdescent:stalagtite_block_b"
+        },
+        "size=2": {
+            "model": "deepdescent:stalagtite_block_c"
+        },
+        "size=3": {
+            "model": "deepdescent:stalagtite_block_d"
+        },
+        "size=4": {
+            "model": "deepdescent:stalagtite_block_e"
+        },
+        "inventory": {
+            "model": "deepdescent:stalagtite_block_a"
+        }
+    }
+}

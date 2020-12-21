@@ -1,0 +1,25 @@
+#Creative Tabs
+itemGroup.deepdescent=Deep Descent
+
+# Items
+item.aquamarine_gem.name=Aquamarine
+item.ametrine_gem.name=Ametrine
+item.sapphire_gem.name=Sapphire
+item.silver_ingot.name=Silver Ingot
+item.copper_ingot.name=Copper Ingot
+item.aluminum_ingot.name=Aluminum Ingot
+item.tin_ingot.name=Tin Ingot
+
+#Blocks
+tile.aquamarine_block.name=Block of Aquamarine
+tile.sapphire_block.name=Block of Sapphire
+tile.silver_block.name=Block of Silver
+tile.ametrine_ore_block.name=Ametrine Ore
+tile.sapphire_ore_block.name=Sapphire Ore
+tile.aquamarine_ore_block.name=Aquamarine Ore
+tile.acanthite_ore_block.name=Acanthite Ore
+tile.tin_ore_block.name=Tin Ore
+tile.aluminum_ore_block.name=Aluminum Ore
+tile.copper_ore_block.name=Copper Ore
+tile.level_barrier_block.name=Level Barrier
+tile.moss_block.name=Cave Moss

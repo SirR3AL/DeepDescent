@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    
+    "key":
+    {
+        "X":
+        {
+            "item": "deepdescent:aquamarine_gem"
+        }
+    },
+    
+    "result":
+    {
+        "item": "deepdescent:aquamarine_block",
+        "count": 1
+    }
+}
